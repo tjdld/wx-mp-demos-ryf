@@ -1,5 +1,5 @@
 Page({
   data: {
-    name: '张三'
+    name: '张三三'
   }
 });

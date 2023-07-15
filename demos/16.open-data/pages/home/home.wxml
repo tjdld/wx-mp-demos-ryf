@@ -1,4 +1,5 @@
 <view>
   <open-data type="userAvatarUrl"></open-data>
   <open-data type="userNickName"></open-data>
+  <open-data type="userCountry"></open-data>
 </view>
